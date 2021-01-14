@@ -1,0 +1,50 @@
+C:\Users\rhysd\source\repos\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.deps.json
+C:\Users\rhysd\source\repos\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.dll
+C:\Users\rhysd\source\repos\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfoInputs.cache
+C:\Users\rhysd\source\repos\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfo.cs
+C:\Users\rhysd\source\repos\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+C:\Users\rhysd\source\repos\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.dll
+C:\Users\rhysd\source\repos\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+H:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.deps.json
+H:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.dll
+H:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+H:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfoInputs.cache
+H:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfo.cs
+H:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.dll
+H:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+D:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.deps.json
+D:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.dll
+D:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+D:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.csprojAssemblyReference.cache
+D:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfoInputs.cache
+D:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfo.cs
+D:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.dll
+D:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+E:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.deps.json
+E:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.dll
+E:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+E:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.csproj.CoreCompileInputs.cache
+E:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfoInputs.cache
+E:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfo.cs
+E:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.dll
+E:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+H:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.csprojAssemblyReference.cache
+E:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.csprojAssemblyReference.cache
+F:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.deps.json
+F:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.dll
+F:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+F:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.csprojAssemblyReference.cache
+F:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.csproj.CoreCompileInputs.cache
+F:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfoInputs.cache
+F:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfo.cs
+F:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.dll
+F:\Magee\Final year\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+C:\Users\rhysd\Desktop\FINAL YEAR\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.deps.json
+C:\Users\rhysd\Desktop\FINAL YEAR\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.dll
+C:\Users\rhysd\Desktop\FINAL YEAR\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\bin\Debug\netstandard2.0\AnimalWildlife.Data.pdb
+C:\Users\rhysd\Desktop\FINAL YEAR\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.csprojAssemblyReference.cache
+C:\Users\rhysd\Desktop\FINAL YEAR\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfoInputs.cache
+C:\Users\rhysd\Desktop\FINAL YEAR\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.AssemblyInfo.cs
+C:\Users\rhysd\Desktop\FINAL YEAR\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.csproj.CoreCompileInputs.cache
+C:\Users\rhysd\Desktop\FINAL YEAR\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.dll
+C:\Users\rhysd\Desktop\FINAL YEAR\Enterprise computing\AnimalWildlife\AnimalWildlife.Data\obj\Debug\netstandard2.0\AnimalWildlife.Data.pdb
